@@ -10,4 +10,7 @@ public class Practica {
 		System.out.println("Avance01");
 	}
 
+	public void Avance02 () {
+		System.out.println("Avance02");
+	}
 }
